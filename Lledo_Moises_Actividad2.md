@@ -196,25 +196,6 @@ En este apartado se hara referencia a comandos relacionados con:
     sudo
 ```
 
-### Control, ayuda y utilidades de la terminal
-
-- man: Muestra el manual de usuario y la documentación detallada de cualquier comando.
-```bash
-    sudo
-```
-- clear: Limpia por completo la pantalla de la terminal dejando el espacio de trabajo vacío.
-```bash
-    sudo
-```
-- history: Muestra el listado de todos los comandos que has ejecutado previamente en la terminal.
-```bash
-    sudo
-```
-- echo: Imprime un texto o el valor de una variable en la pantalla de la terminal.
-```bash
-    sudo
-```
-
 ## 4. Referencias
 Zambon, M. (2022, 10 de febrero).[El Manual de Comandos de Linux - Introducción a los comandos de Linux para principiantes](https://www.freecodecamp.org/espanol/news/comandos-de-linux/). freeCodeCamp. freecodecamp.org
 
