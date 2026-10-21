@@ -202,4 +202,6 @@ Zambon, M. (2022, 10 de febrero).[El Manual de Comandos de Linux - Introducción
 -----
 
 ## Proximas referencias:
-    
+- Agregado de mas codigo
+- Mas referencias
+- Mas imagenes
